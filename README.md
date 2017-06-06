@@ -1,4 +1,4 @@
-# Pau Bonet Vall Llebrera ---- Lead Coder Responsible of IceCrew 
+# Pau Bonet Vall Llebrera --- Lead Coder Responsible of IceCrew 
 ![](http://imgur.com/Tqn1gD8.png)
 ## Responsabilities:
 
